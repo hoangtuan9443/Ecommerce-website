@@ -1,0 +1,6 @@
+export const CREATE_NEW_SAN_PHAM = 'TaoSanPhamMoi'
+export const CREATE_NEW_DON_HANG = 'TaoDonHangMoi'
+export const ADD_NEW_DON_HANG = 'ThemMoiDonHang'
+export const ADD_NEW_SAN_PHAM = 'ThemMoiSanPham'
+export const ADD_NEW_INTO_CART = 'ThemSanPhamVaoGioHang'
+export const CHOOSE_ORDER = 'ChonDonHang'
